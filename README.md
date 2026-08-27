@@ -31,40 +31,15 @@ I'm a **Computer Engineering graduate from Cebu Technological University – Dan
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-f8bbd0?style=flat-square&logo=c&logoColor=8a4a6a)
-![C++](https://img.shields.io/badge/C++-f8bbd0?style=flat-square&logo=cplusplus&logoColor=8a4a6a)
-![Python](https://img.shields.io/badge/Python-f8bbd0?style=flat-square&logo=python&logoColor=8a4a6a)
-![JavaScript](https://img.shields.io/badge/JavaScript-f8bbd0?style=flat-square&logo=javascript&logoColor=8a4a6a)
-![TypeScript](https://img.shields.io/badge/TypeScript-f8bbd0?style=flat-square&logo=typescript&logoColor=8a4a6a)
-![HTML5](https://img.shields.io/badge/HTML5-f8bbd0?style=flat-square&logo=html5&logoColor=8a4a6a)
-![CSS3](https://img.shields.io/badge/CSS3-f8bbd0?style=flat-square&logo=css3&logoColor=8a4a6a)
+![C](https://img.shields.io/badge/C-f8bbd0?style=flat-square&logo=c&logoColor=8a4a6a) ![C++](https://img.shields.io/badge/C++-f8bbd0?style=flat-square&logo=cplusplus&logoColor=8a4a6a) ![Python](https://img.shields.io/badge/Python-f8bbd0?style=flat-square&logo=python&logoColor=8a4a6a) ![JavaScript](https://img.shields.io/badge/JavaScript-f8bbd0?style=flat-square&logo=javascript&logoColor=8a4a6a) ![TypeScript](https://img.shields.io/badge/TypeScript-f8bbd0?style=flat-square&logo=typescript&logoColor=8a4a6a) ![HTML5](https://img.shields.io/badge/HTML5-f8bbd0?style=flat-square&logo=html5&logoColor=8a4a6a) ![CSS3](https://img.shields.io/badge/CSS3-f8bbd0?style=flat-square&logo=css3&logoColor=8a4a6a)
 
-![React](https://img.shields.io/badge/React-fce4ec?style=flat-square&logo=react&logoColor=e78bb0)
-![MUI](https://img.shields.io/badge/MUI-fce4ec?style=flat-square&logo=mui&logoColor=e78bb0)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-fce4ec?style=flat-square&logo=tailwindcss&logoColor=e78bb0)
-![Vite](https://img.shields.io/badge/Vite-fce4ec?style=flat-square&logo=vite&logoColor=e78bb0)
-![GSAP](https://img.shields.io/badge/GSAP-fce4ec?style=flat-square&logo=greensock&logoColor=e78bb0)
+![React](https://img.shields.io/badge/React-fce4ec?style=flat-square&logo=react&logoColor=e78bb0) ![MUI](https://img.shields.io/badge/MUI-fce4ec?style=flat-square&logo=mui&logoColor=e78bb0) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-fce4ec?style=flat-square&logo=tailwindcss&logoColor=e78bb0) ![Vite](https://img.shields.io/badge/Vite-fce4ec?style=flat-square&logo=vite&logoColor=e78bb0) ![GSAP](https://img.shields.io/badge/GSAP-fce4ec?style=flat-square&logo=greensock&logoColor=e78bb0)
 
-![Django](https://img.shields.io/badge/Django-f3d6e4?style=flat-square&logo=django&logoColor=8a4a6a)
-![Django REST](https://img.shields.io/badge/DRF-f3d6e4?style=flat-square&logo=django&logoColor=8a4a6a)
-![FastAPI](https://img.shields.io/badge/FastAPI-f3d6e4?style=flat-square&logo=fastapi&logoColor=8a4a6a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f3d6e4?style=flat-square&logo=postgresql&logoColor=8a4a6a)
-![Supabase](https://img.shields.io/badge/Supabase-f3d6e4?style=flat-square&logo=supabase&logoColor=8a4a6a)
-![Firebase](https://img.shields.io/badge/Firebase-f3d6e4?style=flat-square&logo=firebase&logoColor=8a4a6a)
+![Django](https://img.shields.io/badge/Django-f3d6e4?style=flat-square&logo=django&logoColor=8a4a6a) ![Django REST](https://img.shields.io/badge/DRF-f3d6e4?style=flat-square&logo=django&logoColor=8a4a6a) ![FastAPI](https://img.shields.io/badge/FastAPI-f3d6e4?style=flat-square&logo=fastapi&logoColor=8a4a6a) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f3d6e4?style=flat-square&logo=postgresql&logoColor=8a4a6a) ![Supabase](https://img.shields.io/badge/Supabase-f3d6e4?style=flat-square&logo=supabase&logoColor=8a4a6a) ![Firebase](https://img.shields.io/badge/Firebase-f3d6e4?style=flat-square&logo=firebase&logoColor=8a4a6a)
 
-![LangChain](https://img.shields.io/badge/LangChain-fceef3?style=flat-square&logo=langchain&logoColor=e78bb0)
-![LangGraph](https://img.shields.io/badge/LangGraph-fceef3?style=flat-square&logo=langgraph&logoColor=e78bb0)
-![OpenAI](https://img.shields.io/badge/OpenAI_Realtime-fceef3?style=flat-square&logo=openai&logoColor=e78bb0)
-![Gemini](https://img.shields.io/badge/Gemini-fceef3?style=flat-square&logo=googlegemini&logoColor=e78bb0)
-![Twilio](https://img.shields.io/badge/Twilio-fceef3?style=flat-square&logo=twilio&logoColor=e78bb0)
+![LangChain](https://img.shields.io/badge/LangChain-fceef3?style=flat-square&logo=langchain&logoColor=e78bb0) ![LangGraph](https://img.shields.io/badge/LangGraph-fceef3?style=flat-square&logo=langgraph&logoColor=e78bb0) ![OpenAI](https://img.shields.io/badge/OpenAI_Realtime-fceef3?style=flat-square&logo=openai&logoColor=e78bb0) ![Gemini](https://img.shields.io/badge/Gemini-fceef3?style=flat-square&logo=googlegemini&logoColor=e78bb0) ![Twilio](https://img.shields.io/badge/Twilio-fceef3?style=flat-square&logo=twilio&logoColor=e78bb0)
 
-![Git](https://img.shields.io/badge/Git-fdf2f6?style=flat-square&logo=git&logoColor=8a4a6a)
-![Docker](https://img.shields.io/badge/Docker-fdf2f6?style=flat-square&logo=docker&logoColor=8a4a6a)
-![Figma](https://img.shields.io/badge/Figma-fdf2f6?style=flat-square&logo=figma&logoColor=8a4a6a)
-![Vercel](https://img.shields.io/badge/Vercel-fdf2f6?style=flat-square&logo=vercel&logoColor=8a4a6a)
-![Linux](https://img.shields.io/badge/Linux-fdf2f6?style=flat-square&logo=linux&logoColor=8a4a6a)
-![pytest](https://img.shields.io/badge/pytest-fdf2f6?style=flat-square&logo=pytest&logoColor=8a4a6a)
-![Arduino](https://img.shields.io/badge/Arduino-fdf2f6?style=flat-square&logo=arduino&logoColor=8a4a6a)
+![Git](https://img.shields.io/badge/Git-fdf2f6?style=flat-square&logo=git&logoColor=8a4a6a) ![Docker](https://img.shields.io/badge/Docker-fdf2f6?style=flat-square&logo=docker&logoColor=8a4a6a) ![Figma](https://img.shields.io/badge/Figma-fdf2f6?style=flat-square&logo=figma&logoColor=8a4a6a) ![Vercel](https://img.shields.io/badge/Vercel-fdf2f6?style=flat-square&logo=vercel&logoColor=8a4a6a) ![Linux](https://img.shields.io/badge/Linux-fdf2f6?style=flat-square&logo=linux&logoColor=8a4a6a) ![pytest](https://img.shields.io/badge/pytest-fdf2f6?style=flat-square&logo=pytest&logoColor=8a4a6a) ![Arduino](https://img.shields.io/badge/Arduino-fdf2f6?style=flat-square&logo=arduino&logoColor=8a4a6a)
 
 </div>
 
