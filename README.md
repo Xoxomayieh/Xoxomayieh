@@ -16,11 +16,12 @@
 
 ## ⋆౨ৎ˚⟡˖ ࣪ &nbsp;hi, i'm hannah &nbsp; ⋆౨ৎ˚⟡˖ ࣪
 
-I'm a **Computer Engineering graduate from Cebu Technological University – Danao Campus**, and I like the sweet spot where clean, friendly design meets real systems work. Lately that has meant **AI-powered voice agents, full-stack web apps, and solar-powered IoT networks** — all shipped, not just sketched.
+I'm a **Computer Engineering graduate from Cebu Technological University – Danao Campus**, and I like the sweet spot where clean, friendly design meets real systems work. Lately that has meant **full-stack web platforms, AI copilots and voice agents, and solar-powered IoT networks** — all shipped, not just sketched.
 
-- 🌸 &nbsp;**AI Solutions Intern** at OneTouch Network, building AI-driven tools for real business operations
-- 🎀 &nbsp;**Capstone:** an offline, solar-powered LoRa mesh network for disaster-prone communities in Danao City
-- 💌 &nbsp;Comfortable across the stack — **React & Tailwind** on the front, **FastAPI & Python** on the back, **ESP32 & Arduino** on the bench
+- 🌸 &nbsp;**Full-Stack Developer at Spotter** — shipped a new feature end-to-end (backend + frontend) on a transportation-management web platform
+- 🎀 &nbsp;**AI Solutions Intern at OneTouch Network** — built AI-driven tools for real business operations
+- 🌙 &nbsp;**Capstone:** an offline, solar-powered LoRa mesh network for disaster-prone communities in Danao City
+- 💌 &nbsp;Comfortable across the stack — **React, MUI & Tailwind** on the front, **Django REST & FastAPI** on the back, **ESP32 & Arduino** on the bench
 - 🕯️ &nbsp;Academic Distinction Award (2022–2026) · consistent honor student since forever
 - 📫 &nbsp;Reach me at **itshannahmayieh@gmail.com**
 
@@ -39,21 +40,31 @@ I'm a **Computer Engineering graduate from Cebu Technological University – Dan
 ![CSS3](https://img.shields.io/badge/CSS3-f8bbd0?style=flat-square&logo=css3&logoColor=8a4a6a)
 
 ![React](https://img.shields.io/badge/React-fce4ec?style=flat-square&logo=react&logoColor=e78bb0)
+![MUI](https://img.shields.io/badge/MUI-fce4ec?style=flat-square&logo=mui&logoColor=e78bb0)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-fce4ec?style=flat-square&logo=tailwindcss&logoColor=e78bb0)
-![FastAPI](https://img.shields.io/badge/FastAPI-fce4ec?style=flat-square&logo=fastapi&logoColor=e78bb0)
-![Django](https://img.shields.io/badge/Django-fce4ec?style=flat-square&logo=django&logoColor=e78bb0)
-![Node.js](https://img.shields.io/badge/Node.js-fce4ec?style=flat-square&logo=nodedotjs&logoColor=e78bb0)
+![Vite](https://img.shields.io/badge/Vite-fce4ec?style=flat-square&logo=vite&logoColor=e78bb0)
+![GSAP](https://img.shields.io/badge/GSAP-fce4ec?style=flat-square&logo=greensock&logoColor=e78bb0)
 
+![Django](https://img.shields.io/badge/Django-f3d6e4?style=flat-square&logo=django&logoColor=8a4a6a)
+![Django REST](https://img.shields.io/badge/DRF-f3d6e4?style=flat-square&logo=django&logoColor=8a4a6a)
+![FastAPI](https://img.shields.io/badge/FastAPI-f3d6e4?style=flat-square&logo=fastapi&logoColor=8a4a6a)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f3d6e4?style=flat-square&logo=postgresql&logoColor=8a4a6a)
 ![Supabase](https://img.shields.io/badge/Supabase-f3d6e4?style=flat-square&logo=supabase&logoColor=8a4a6a)
 ![Firebase](https://img.shields.io/badge/Firebase-f3d6e4?style=flat-square&logo=firebase&logoColor=8a4a6a)
-![Arduino](https://img.shields.io/badge/Arduino-f3d6e4?style=flat-square&logo=arduino&logoColor=8a4a6a)
-![ESP32](https://img.shields.io/badge/ESP32-f3d6e4?style=flat-square&logo=espressif&logoColor=8a4a6a)
 
-![Git](https://img.shields.io/badge/Git-fceef3?style=flat-square&logo=git&logoColor=e78bb0)
-![Figma](https://img.shields.io/badge/Figma-fceef3?style=flat-square&logo=figma&logoColor=e78bb0)
-![Vercel](https://img.shields.io/badge/Vercel-fceef3?style=flat-square&logo=vercel&logoColor=e78bb0)
-![Linux](https://img.shields.io/badge/Linux-fceef3?style=flat-square&logo=linux&logoColor=e78bb0)
+![LangChain](https://img.shields.io/badge/LangChain-fceef3?style=flat-square&logo=langchain&logoColor=e78bb0)
+![LangGraph](https://img.shields.io/badge/LangGraph-fceef3?style=flat-square&logo=langgraph&logoColor=e78bb0)
+![OpenAI](https://img.shields.io/badge/OpenAI_Realtime-fceef3?style=flat-square&logo=openai&logoColor=e78bb0)
+![Gemini](https://img.shields.io/badge/Gemini-fceef3?style=flat-square&logo=googlegemini&logoColor=e78bb0)
+![Twilio](https://img.shields.io/badge/Twilio-fceef3?style=flat-square&logo=twilio&logoColor=e78bb0)
+
+![Git](https://img.shields.io/badge/Git-fdf2f6?style=flat-square&logo=git&logoColor=8a4a6a)
+![Docker](https://img.shields.io/badge/Docker-fdf2f6?style=flat-square&logo=docker&logoColor=8a4a6a)
+![Figma](https://img.shields.io/badge/Figma-fdf2f6?style=flat-square&logo=figma&logoColor=8a4a6a)
+![Vercel](https://img.shields.io/badge/Vercel-fdf2f6?style=flat-square&logo=vercel&logoColor=8a4a6a)
+![Linux](https://img.shields.io/badge/Linux-fdf2f6?style=flat-square&logo=linux&logoColor=8a4a6a)
+![pytest](https://img.shields.io/badge/pytest-fdf2f6?style=flat-square&logo=pytest&logoColor=8a4a6a)
+![Arduino](https://img.shields.io/badge/Arduino-fdf2f6?style=flat-square&logo=arduino&logoColor=8a4a6a)
 
 </div>
 
@@ -65,14 +76,15 @@ I'm a **Computer Engineering graduate from Cebu Technological University – Dan
 | ✿ area | ✿ tools |
 |---|---|
 | **Languages** | C, C++, Python, JavaScript, TypeScript, HTML, CSS, MATLAB |
-| **Frontend** | React, Tailwind CSS |
-| **Backend & APIs** | FastAPI, Django, REST APIs, WebSockets, APScheduler |
-| **AI & Voice** | OpenAI Realtime API, Gemini API, Twilio |
+| **Frontend** | React, MUI (Material UI), Tailwind CSS, Vite, GSAP |
+| **Backend & APIs** | Django, Django REST Framework, FastAPI, REST APIs, WebSockets, Webhooks, OAuth 2.0, APScheduler |
+| **AI** | OpenAI Realtime API, Gemini API, LangChain, LangGraph, RAG, pgvector |
+| **Integrations** | QuickBooks Online (Intuit) API, Slack API, Twilio, Leaflet |
 | **Data** | PostgreSQL, Supabase, Firebase |
 | **Hardware** | Arduino IDE, ESP32, LoRa, ultrasonic & RTC modules |
-| **Design & tooling** | Figma, Canva, Linux, Git, VS Code, Cursor, v0, Claude Code |
-| **Deploy** | Vercel, Railway, Replit, Ngrok |
-| **PM** | Trello, Jira |
+| **Tooling** | Git, GitHub, Docker, VS Code, Cursor, v0, Claude Code, pytest, Bruno, Ngrok |
+| **Design & PM** | Figma, Canva, Linux, Trello, Jira |
+| **Deploy** | Vercel, Railway, Replit |
 
 </details>
 
@@ -81,6 +93,19 @@ I'm a **Computer Engineering graduate from Cebu Technological University – Dan
 ## ✧ &nbsp;things i've made &nbsp;✧
 
 <details open>
+<summary><b>🚚 &nbsp;HAULR — AI-Powered HOS Trip Planner & ELD Log Generator</b> &nbsp;·&nbsp; <i>2026, personal project</i></summary>
+
+<br/>
+
+A full-stack trip planner for U.S. truckers, built with **React, TypeScript, and Django REST Framework**.
+
+- Plans routes against **four federal Hours-of-Service limits**, with a deterministic compliance engine written as a pure Python module — independent of Django request handling
+- Auto-generates **FMCSA daily log sheets as SVG replicas** of the paper grid, exportable to PDF
+- An **AI copilot** (Gemini 2.5 Flash + LangChain + LangGraph) that answers compliance questions with **RAG citations**
+
+</details>
+
+<details>
 <summary><b>🎀 &nbsp;Aileen — AI-Powered Outbound Calling System</b> &nbsp;·&nbsp; <i>2026, work project</i></summary>
 
 <br/>
@@ -133,23 +158,12 @@ An **Arduino + ESP32** feeder with ultrasonic sensors and an RTC module for prec
 
 ---
 
-## ⟡ &nbsp;a peek at the numbers &nbsp;⟡
-
-<div align="center">
-
-![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xoxomayieh&show_icons=true&hide_border=true&title_color=b0567e&icon_color=e78bb0&text_color=8a4a6a&bg_color=fff5f8)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xoxomayieh&layout=compact&hide_border=true&title_color=b0567e&text_color=8a4a6a&bg_color=fff5f8)
-
-</div>
-
----
-
 ## 🕯️ &nbsp;lately &nbsp;🕯️
 
-- 🌸 &nbsp;Turning my macOS-desktop portfolio site into something I'm proud to hand out
-- 💻 &nbsp;Going deeper on AI voice agents and real-time audio pipelines
+- 🌸 &nbsp;Shipping full-stack features in production and turning my macOS-desktop portfolio site into something I'm proud to hand out
+- 💻 &nbsp;Going deeper on AI copilots — RAG, LangGraph agents, and real-time audio pipelines
 - 📚 &nbsp;Studying Cisco networking and how hardware, cloud, and security fit together
-- 🎀 &nbsp;Always open to junior software / AI engineering roles — *let's talk!*
+- 🎀 &nbsp;Open to junior software / AI engineering roles — *let's talk!*
 
 <div align="center">
 <br/>
