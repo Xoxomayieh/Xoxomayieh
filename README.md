@@ -18,8 +18,8 @@
 
 I'm a **Computer Engineering graduate from Cebu Technological University – Danao Campus**, and I like the sweet spot where clean, friendly design meets real systems work. Lately that has meant **full-stack web platforms, AI copilots and voice agents, and solar-powered IoT networks** — all shipped, not just sketched.
 
-- 🌸 &nbsp;**Full-Stack Developer at Spotter** — shipped a new feature end-to-end (backend + frontend) on a transportation-management web platform
-- 🎀 &nbsp;**AI Solutions Intern at OneTouch Network** — built AI-driven tools for real business operations
+- 🌸 &nbsp;**Full-Stack Developer at Spotter** — shipped a new feature end-to-end (backend + frontend) on a transportation-management web platform, with code reviews and integration research alongside the dev team
+- 🎀 &nbsp;**AI Solutions Intern at OneTouch Network** — built and integrated AI-driven tools into live business systems
 - 🌙 &nbsp;**Capstone:** an offline, solar-powered LoRa mesh network for disaster-prone communities in Danao City
 - 💌 &nbsp;Comfortable across the stack — **React, MUI & Tailwind** on the front, **Django REST & FastAPI** on the back, **ESP32 & Arduino** on the bench
 - 🕯️ &nbsp;Academic Distinction Award (2022–2026) · consistent honor student since forever
