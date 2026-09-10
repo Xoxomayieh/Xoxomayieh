@@ -7,7 +7,7 @@
 &nbsp;🎀&nbsp; **she builds soft interfaces over hard engineering** &nbsp;🎀
 
 [![Portfolio](https://img.shields.io/badge/portfolio-hmt--portfolio-f6a5c0?style=for-the-badge&labelColor=fce4ec)](https://hmt-portfolio-two.vercel.app/)
-[![Email](https://img.shields.io/badge/say_hello-itshannahmayieh-e78bb0?style=for-the-badge&labelColor=fce4ec&logo=gmail&logoColor=e78bb0)](mailto:itshannahmayieh@gmail.com)
+[![Email](https://img.shields.io/badge/say_hello-itshannahmariel-e78bb0?style=for-the-badge&labelColor=fce4ec&logo=gmail&logoColor=e78bb0)](mailto:itshannahmariel@gmail.com)
 [![Location](https://img.shields.io/badge/based_in-Cebu,_Philippines-f3b6d0?style=for-the-badge&labelColor=fce4ec)](#)
 
 </div>
