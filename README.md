@@ -23,7 +23,7 @@ I'm a **Computer Engineering graduate from Cebu Technological University – Dan
 - 🌙 &nbsp;**Capstone:** an offline, solar-powered LoRa mesh network for disaster-prone communities in Danao City
 - 💌 &nbsp;Comfortable across the stack — **React, MUI & Tailwind** on the front, **Django REST & FastAPI** on the back, **ESP32 & Arduino** on the bench
 - 🕯️ &nbsp;Academic Distinction Award (2022–2026) · consistent honor student since forever
-- 📫 &nbsp;Reach me at **itshannahma@gmail.com**
+- 📫 &nbsp;Reach me at **itshannahmariel@gmail.com**
 
 ---
 
